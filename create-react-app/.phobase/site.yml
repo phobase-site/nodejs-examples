@@ -1,0 +1,6 @@
+---
+framework: CREATE_REACT_APP_5
+runtime: NODEJS_16
+config_file: src/siteConfig.json
+config_schema:
+  pages: []
